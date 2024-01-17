@@ -1,5 +1,3 @@
-# Language Learning Game Readme [Live Preview](https://emitrrsp.vercel.app/)
-
 
 ## Overview
 
@@ -19,7 +17,6 @@ Before you begin, please ensure you have the following prerequisites:
 
    ```sh
    git clone <repository-url>
-   cd language-learning-game
 
 ## Installation
 
@@ -55,7 +52,7 @@ To set up and run the Language Learning Game, follow these steps:
     npm run dev
     ```
 
-5. Access the application in your browser at [http://localhost:3000](http://localhost:3000).
+5. Access the application in your browser at [http://localhost:3000]
 
 ## Features and Usage
 
@@ -75,12 +72,7 @@ To set up and run the Language Learning Game, follow these steps:
 
 - Update backend APIs in the `api` directory for specific language learning logic customization.
 
-## Test User
 
-You can use the following test user to explore the Language Learning Game:
-
-- **Email:** testuser@gmail.com
-- **Password:** Test@123
 
 Please note that this is a test account, and you can use it to test the registration, login, and language exercises. For security reasons, it's recommended to create your own account for real usage.
 
@@ -88,5 +80,3 @@ Please note that this is a test account, and you can use it to test the registra
 ## Troubleshooting
 
 If you encounter any issues during setup or usage, please refer to the documentation of Next.js, Tailwind CSS, Prisma, MongoDB, and NextAuth for troubleshooting guides.
-
-Enjoy learning with the Language Learning Game! If you have any further questions or need assistance, feel free to reach out to the development team.

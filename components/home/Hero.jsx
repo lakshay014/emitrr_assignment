@@ -1,10 +1,11 @@
 import React from 'react'
 import { Button } from '../ui/button'
 import Link from 'next/link'
+import './Hero.css'
 
 const Hero = () => {
     return (
-        <section className='w-full h-screen mt-16 container flex items-center justify-center mx-auto md:flex-row flex-col-reverse'>
+        <section className=' background-colo w-full h-screen mt-16 container flex items-center justify-center mx-auto md:flex-row flex-col-reverse'>
             <div className='w-full md:w-1/2 md:h-full flex items-start justify-center flex-col gap-10'>
                 <h1 className='text-4xl'>The Ultimate Quizmaster's Challenge</h1>
                 <p>
